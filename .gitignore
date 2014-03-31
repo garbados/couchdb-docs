@@ -1,1 +1,4 @@
 build
+Makefile
+Makefile.am
+Makefile.in
